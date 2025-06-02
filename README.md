@@ -7,7 +7,9 @@ Disc: This code is for people who get super bored over the summer and need somet
 
 
 List/Data Collection Ex:
-```RPS = ["rock", "paper", "scissors"]```
+```
+RPS = ["rock", "paper", "scissors"]
+```
 
 Loop Ex:
 ```
