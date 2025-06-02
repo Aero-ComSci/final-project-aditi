@@ -26,7 +26,10 @@ def compChoice():
 ```
 
 
-https://github.com/user-attachments/assets/d7b5598c-ad9e-4d65-9c64-7dc5c7c3a600
+
+https://github.com/user-attachments/assets/a4f0dc35-7b80-4bae-8acb-8f3ccf96c767
+
+
 
 
 
